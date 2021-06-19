@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bea</h1>
 <h3 align="center">A passionate developer and aerospace engineer from Spain</h3>
 
-- 🌱 I’m currently learning **Python, Web Development**
+- 🌱 I’m currently learning **Python and Web Development**
 
 - 👯 I’m looking to collaborate on **anything fun**
 
